@@ -1,21 +1,25 @@
 # Pedro Gomes
 
-Desenvolvedor autodidata em transição para projetos web. Crio sites e ferramentas digitais simples para pequenos negócios, com React, TypeScript e automação.
+Self-taught developer moving into web projects. I build websites and simple digital tools for small businesses, working with React, TypeScript and automation. Founder of **Gomes IA Digital** (Arouca, Portugal).
 
-## Projetos selecionados
+## Selected projects
 
-- [Paiva's Barber — website](https://github.com/wizzynoise/paivas-barbearia-layout): site de apresentação para uma barbearia local.
-- [7 Jardins — portefólio histórico](https://github.com/wizzynoise/7Jardins_version2): evolução de um website de empresa, preservada como trabalho de portefólio.
-- [Gomes Digital — website](https://github.com/wizzynoise/gomes-digital-arouca): website em desenvolvimento para um serviço de apoio digital local.
+| Project | Status |
+|---|---|
+| [Gomes Digital Arouca website](https://github.com/wizzynoise/gomes-digital-arouca) | In development |
+| [Paiva's Barber website layout](https://github.com/wizzynoise/paivas-barbearia-layout) | Demo |
+| [7 Jardins](https://github.com/wizzynoise/7Jardins_version2) | Historical portfolio (archived) |
 
-## Tecnologias
+Paiva's Barber is a demo layout concept for the portfolio. It is not a delivered website.
 
-React · TypeScript · JavaScript · HTML/CSS · Tailwind CSS · Vite · Supabase · GitHub Pages
+## Tech
 
-## Sobre o meu trabalho
+React · TypeScript · JavaScript · HTML/CSS · Tailwind CSS · Vite · Supabase · GitHub Pages · Python · Java
 
-Gosto de transformar necessidades concretas em interfaces simples, claras e úteis. Alguns projetos neste perfil são trabalhos de aprendizagem ou arquivos históricos; os projetos em desenvolvimento estão identificados como tal.
+## About my work
 
-## Contacto
+I like turning concrete needs into simple, clear, useful interfaces. Some repositories are learning projects or historical archives; projects in development are labelled as such.
 
-Portugal · [GitHub](https://github.com/wizzynoise)
+## Contact
+
+Portugal · sjgomesarouca@gmail.com · [GitHub](https://github.com/wizzynoise)
