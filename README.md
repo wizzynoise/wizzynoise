@@ -1,25 +1,21 @@
 # Pedro Gomes
 
-Self-taught developer moving into web projects. I build websites and simple digital tools for small businesses, working with React, TypeScript and automation. Founder of **Gomes IA Digital** (Arouca, Portugal).
+I build websites and digital tools for small businesses. Founder of **Gomes IA Digital**, based in Arouca, Portugal.
 
 ## Selected projects
 
 | Project | Status |
 |---|---|
-| [Gomes Digital Arouca website](https://github.com/wizzynoise/gomes-digital-arouca) | In development |
-| [Paiva's Barber website layout](https://github.com/wizzynoise/paivas-barbearia-layout) | Demo |
-| [7 Jardins](https://github.com/wizzynoise/7Jardins_version2) | Historical portfolio (archived) |
+| [Gomes IA Digital website](https://github.com/wizzynoise/gomes-digital-arouca) · [gomesiadigital.com](https://gomesiadigital.com) | Business website |
+| [SJGOMES](https://github.com/wizzynoise/sjgomes) | Client website (sound systems, Arouca) |
+| [7 Jardins](https://github.com/wizzynoise/7Jardins_version2) | Portfolio project (business closed) |
 
-Paiva's Barber is a demo layout concept for the portfolio. It is not a delivered website.
+Some repositories are design concepts or learning archives and are labelled as such. A layout concept is not a client website.
 
 ## Tech
 
-React · TypeScript · JavaScript · HTML/CSS · Tailwind CSS · Vite · Supabase · GitHub Pages · Python · Java
-
-## About my work
-
-I like turning concrete needs into simple, clear, useful interfaces. Some repositories are learning projects or historical archives; projects in development are labelled as such.
+HTML/CSS · JavaScript · React · TypeScript · Tailwind CSS · Vite · Supabase · Cloudflare Workers · Python
 
 ## Contact
 
-Portugal · sjgomesarouca@gmail.com · [GitHub](https://github.com/wizzynoise)
+Arouca, Portugal · [gomesiadigital.com](https://gomesiadigital.com) · sjgomesarouca@gmail.com
